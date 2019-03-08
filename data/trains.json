@@ -59,7 +59,7 @@
 			"name": "Golden Arrow",
 			"stops": [
 				{
-					"station": "Cypress",
+					"station": "Chennai",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
