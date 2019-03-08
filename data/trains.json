@@ -1,7 +1,7 @@
 {
 	"trains": [
 		{
-			"name": "OCI express",
+			"name": "OCI ",
 			"stops": [
 				{
 					"station": "Sycamore",
