@@ -10,7 +10,7 @@
 					"departure": "12:10pm"
 				},
 				{
-					"station": "Pune",
+					"station": "Pine",
 					"status": "ON-TIME",
 					"arrival": "1:00pm",
 					"departure": "1:10pm"
@@ -21,7 +21,7 @@
 			"name": "Flying Scotsman",
 			"stops": [
 				{
-					"station": "Blr",
+					"station": "Pine",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
